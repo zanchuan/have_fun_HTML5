@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## my name is zanchuan, this is my new first attempt, and i will continue to learn
+## my name is zanchuan, this is my first attempt, and i will continue to learn
 
 You can use the [editor on GitHub](https://github.com/zanchuan/have_fun_HTML5/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
